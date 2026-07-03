@@ -11,6 +11,7 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aayyuuu3/LeetCode/tree/master/0035-search-insert-position) |
+| [0283-move-zeroes](https://github.com/Aayyuuu3/LeetCode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Aayyuuu3/LeetCode/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |

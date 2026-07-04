@@ -7,10 +7,12 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Aayyuuu3/LeetCode/tree/master/0066-plus-one) |
 ## Array
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aayyuuu3/LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Aayyuuu3/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Aayyuuu3/LeetCode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |

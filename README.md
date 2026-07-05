@@ -8,6 +8,7 @@ My LeetCode solution and DSA practice.
 | ------- |
 | [0007-reverse-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Aayyuuu3/LeetCode/tree/master/0066-plus-one) |
 ## Array
 |  |
@@ -40,10 +41,12 @@ My LeetCode solution and DSA practice.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Aayyuuu3/LeetCode/tree/master/0020-valid-parentheses) |
 | [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |
 <!---LeetCode Topics End-->

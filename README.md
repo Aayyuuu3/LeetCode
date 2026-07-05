@@ -49,4 +49,20 @@ My LeetCode solution and DSA practice.
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

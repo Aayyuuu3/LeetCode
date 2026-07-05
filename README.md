@@ -40,4 +40,9 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aayyuuu3/LeetCode/tree/master/0020-valid-parentheses) |
+| [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |
+## Hash Table
+|  |
+| ------- |
+| [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |
 <!---LeetCode Topics End-->

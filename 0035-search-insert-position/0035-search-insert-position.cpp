@@ -1,10 +1,15 @@
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]>=target)
-                return i;
+        int low=0;
+        int high=nums.size()-1;
+        while(low<=high){
+            int r= low + (high-low)/2;
+            if(nums[r] == target) return r;
+            else if(nums[r]>target)
+                high = r-1;
+            else low = r+1;
         }
-        return nums.size();
+        return low;
     }
 };

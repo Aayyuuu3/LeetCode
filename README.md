@@ -56,6 +56,7 @@ My LeetCode solution and DSA practice.
 | ------- |
 | [0100-same-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0101-symmetric-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -71,4 +72,9 @@ My LeetCode solution and DSA practice.
 | ------- |
 | [0100-same-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0101-symmetric-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->

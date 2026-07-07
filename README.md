@@ -19,6 +19,7 @@ My LeetCode solution and DSA practice.
 | [0035-search-insert-position](https://github.com/Aayyuuu3/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Aayyuuu3/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Aayyuuu3/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Aayyuuu3/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Aayyuuu3/LeetCode/tree/master/0704-binary-search) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aayyuuu3/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search

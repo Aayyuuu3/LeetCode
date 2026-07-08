@@ -32,6 +32,7 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |

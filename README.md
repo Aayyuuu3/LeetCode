@@ -16,6 +16,7 @@ My LeetCode solution and DSA practice.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aayyuuu3/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Aayyuuu3/LeetCode/tree/master/0066-plus-one) |
@@ -62,6 +63,7 @@ My LeetCode solution and DSA practice.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |
 ## Tree

@@ -33,6 +33,7 @@ My LeetCode solution and DSA practice.
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -52,6 +53,7 @@ My LeetCode solution and DSA practice.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0509-fibonacci-number) |
 ## String

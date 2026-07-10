@@ -22,6 +22,7 @@ My LeetCode solution and DSA practice.
 | [0035-search-insert-position](https://github.com/Aayyuuu3/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Aayyuuu3/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aayyuuu3/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Aayyuuu3/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Aayyuuu3/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Aayyuuu3/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Aayyuuu3/LeetCode/tree/master/0704-binary-search) |
@@ -71,6 +72,7 @@ My LeetCode solution and DSA practice.
 | ------- |
 | [0001-two-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Aayyuuu3/LeetCode/tree/master/0217-contains-duplicate) |
 | [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |
 ## Tree
 |  |
@@ -130,4 +132,5 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aayyuuu3/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Aayyuuu3/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

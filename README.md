@@ -27,6 +27,7 @@ My LeetCode solution and DSA practice.
 | [0217-contains-duplicate](https://github.com/Aayyuuu3/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Aayyuuu3/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Aayyuuu3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Aayyuuu3/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Aayyuuu3/LeetCode/tree/master/0704-binary-search) |
@@ -36,6 +37,7 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aayyuuu3/LeetCode/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/Aayyuuu3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Aayyuuu3/LeetCode/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -54,6 +56,7 @@ My LeetCode solution and DSA practice.
 | [0189-rotate-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aayyuuu3/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Aayyuuu3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -80,6 +83,7 @@ My LeetCode solution and DSA practice.
 | [0013-roman-to-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Aayyuuu3/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Aayyuuu3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |
 ## Tree
 |  |
@@ -141,5 +145,6 @@ My LeetCode solution and DSA practice.
 | ------- |
 | [0075-sort-colors](https://github.com/Aayyuuu3/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Aayyuuu3/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Aayyuuu3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->

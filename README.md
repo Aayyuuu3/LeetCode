@@ -11,6 +11,7 @@ My LeetCode solution and DSA practice.
 | [0013-roman-to-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Aayyuuu3/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Aayyuuu3/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Aayyuuu3/LeetCode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0509-fibonacci-number) |
 | [2413-smallest-even-multiple](https://github.com/Aayyuuu3/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -75,6 +76,7 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Aayyuuu3/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0509-fibonacci-number) |
 ## String
@@ -168,4 +170,5 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Aayyuuu3/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

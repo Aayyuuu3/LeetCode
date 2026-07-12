@@ -25,6 +25,7 @@ My LeetCode solution and DSA practice.
 | [0035-search-insert-position](https://github.com/Aayyuuu3/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Aayyuuu3/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aayyuuu3/LeetCode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aayyuuu3/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -163,4 +164,8 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Aayyuuu3/LeetCode/tree/master/2427-number-of-common-factors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

@@ -15,11 +15,10 @@ public:
             else
                 mp[temp[i]] = r;
         }
-        vector <int> result;
         for(int i=0; i<arr.size(); i++){
             int temp = mp[arr[i]];
-            result.push_back(temp);
+            arr[i] = temp;
         }
-        return result;
+        return arr;
     }
 };

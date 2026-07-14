@@ -30,6 +30,7 @@ My LeetCode solution and DSA practice.
 | [0035-search-insert-position](https://github.com/Aayyuuu3/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Aayyuuu3/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aayyuuu3/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aayyuuu3/LeetCode/tree/master/0217-contains-duplicate) |
@@ -67,6 +68,7 @@ My LeetCode solution and DSA practice.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aayyuuu3/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Aayyuuu3/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aayyuuu3/LeetCode/tree/master/0283-move-zeroes) |
@@ -170,6 +172,7 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aayyuuu3/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Aayyuuu3/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Aayyuuu3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |

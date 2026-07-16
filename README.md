@@ -23,6 +23,7 @@ My LeetCode solution and DSA practice.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Aayyuuu3/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Aayyuuu3/LeetCode/tree/master/2427-number-of-common-factors) |
+| [2485-find-the-pivot-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Aayyuuu3/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aayyuuu3/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -172,6 +173,7 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aayyuuu3/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2485-find-the-pivot-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Simulation
 |  |
 | ------- |

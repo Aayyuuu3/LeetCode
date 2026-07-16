@@ -29,6 +29,7 @@ My LeetCode solution and DSA practice.
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Aayyuuu3/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aayyuuu3/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +59,7 @@ My LeetCode solution and DSA practice.
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Aayyuuu3/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +90,7 @@ My LeetCode solution and DSA practice.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -180,6 +183,7 @@ My LeetCode solution and DSA practice.
 | ------- |
 | [0258-add-digits](https://github.com/Aayyuuu3/LeetCode/tree/master/0258-add-digits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
@@ -192,6 +196,7 @@ My LeetCode solution and DSA practice.
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Aayyuuu3/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aayyuuu3/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -204,6 +209,7 @@ My LeetCode solution and DSA practice.
 | [0414-third-maximum-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0414-third-maximum-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Aayyuuu3/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |

@@ -2,19 +2,12 @@ class Solution {
 public:
     int maxNumberOfBalloons(string text) {
         int visited[26] = {0};
-        for(int i=0; i<text.size(); i++){
+        for(int i=0; i<text.size(); i++)
             visited[text[i]-'a']++;
-        }
-        int count = 0;
-        while(visited[0] >= 1 && visited[1] >= 1 && visited[11] >= 2 && 
-                visited[13] >= 1 && visited[14] >= 2){
-            visited[0] -= 1;
-            visited[1] -= 1;
-            visited[11] -= 2;
-            visited[13] -= 1;
-            visited[14] -= 2;
-            count++;
-        }
-        return count;
+        int a = min(visited[0], visited[1]);
+        int b = min(a, visited[11]/2);
+        int c = min(b,visited[13]);
+        int d = min(c,visited[14]/2);
+        return d;
     }
 };

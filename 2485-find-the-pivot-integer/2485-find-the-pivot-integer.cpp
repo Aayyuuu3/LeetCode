@@ -1,13 +1,14 @@
 class Solution {
 public:
     int pivotInteger(int n) {
-        if(n == 1) return 1;
-        int c = n * (n+1) / 2;
-        for(int i=1; i<n; i++){
-            int k = i * (i+1) / 2;
-            if( k == (c-k+i))
-                return i;
-        }
-        return -1;
+        // by mathematical eq
+        // x: pivot integer
+        // x(x+1) / 2 = n(n+1)/2 - x(x+1)/2 + x
+        // x(x+1) / 2 = n(n+1)/2 - x(x-1)/2
+        // x*x = n(n+1)/2
+
+        int k = n * (n+1) / 2;
+        int x = sqrt(k);
+        return (x*x == k)? x : -1 ;
     }
 };

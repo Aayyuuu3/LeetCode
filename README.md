@@ -52,6 +52,7 @@ My LeetCode solution and DSA practice.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Aayyuuu3/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/Aayyuuu3/LeetCode/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/Aayyuuu3/LeetCode/tree/master/0704-binary-search) |
 | [0941-valid-mountain-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -215,6 +216,7 @@ My LeetCode solution and DSA practice.
 | [0349-intersection-of-two-arrays](https://github.com/Aayyuuu3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Aayyuuu3/LeetCode/tree/master/0506-relative-ranks) |
 | [1331-rank-transform-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Aayyuuu3/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -253,4 +255,8 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/Aayyuuu3/LeetCode/tree/master/2614-prime-in-diagonal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Aayyuuu3/LeetCode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->

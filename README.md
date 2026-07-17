@@ -102,6 +102,7 @@ My LeetCode solution and DSA practice.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aayyuuu3/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aayyuuu3/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aayyuuu3/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -145,6 +146,7 @@ My LeetCode solution and DSA practice.
 | [0098-validate-binary-search-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aayyuuu3/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -153,6 +155,7 @@ My LeetCode solution and DSA practice.
 | [0098-validate-binary-search-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aayyuuu3/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -165,6 +168,7 @@ My LeetCode solution and DSA practice.
 | [0098-validate-binary-search-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aayyuuu3/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |

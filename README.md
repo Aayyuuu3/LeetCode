@@ -94,6 +94,7 @@ My LeetCode solution and DSA practice.
 | [0027-remove-element](https://github.com/Aayyuuu3/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Aayyuuu3/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Aayyuuu3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aayyuuu3/LeetCode/tree/master/0283-move-zeroes) |
@@ -125,6 +126,7 @@ My LeetCode solution and DSA practice.
 | [0013-roman-to-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Aayyuuu3/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Aayyuuu3/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Aayyuuu3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aayyuuu3/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Aayyuuu3/LeetCode/tree/master/0389-find-the-difference) |
 | [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |

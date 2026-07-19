@@ -64,6 +64,7 @@ My LeetCode solution and DSA practice.
 | [1480-running-sum-of-1d-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Aayyuuu3/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/Aayyuuu3/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Aayyuuu3/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -287,6 +288,7 @@ My LeetCode solution and DSA practice.
 ## Matrix
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/Aayyuuu3/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/Aayyuuu3/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Heap (Priority Queue)
 |  |

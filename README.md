@@ -67,6 +67,7 @@ My LeetCode solution and DSA practice.
 | [1732-find-the-highest-altitude](https://github.com/Aayyuuu3/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aayyuuu3/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aayyuuu3/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2614-prime-in-diagonal](https://github.com/Aayyuuu3/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Aayyuuu3/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -133,6 +134,7 @@ My LeetCode solution and DSA practice.
 | [0389-find-the-difference](https://github.com/Aayyuuu3/LeetCode/tree/master/0389-find-the-difference) |
 | [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Aayyuuu3/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aayyuuu3/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |

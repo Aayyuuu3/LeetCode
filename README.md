@@ -63,6 +63,7 @@ My LeetCode solution and DSA practice.
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aayyuuu3/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Aayyuuu3/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/Aayyuuu3/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aayyuuu3/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -206,6 +207,7 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aayyuuu3/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/Aayyuuu3/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Simulation
 |  |

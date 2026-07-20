@@ -60,6 +60,7 @@ My LeetCode solution and DSA practice.
 | [0704-binary-search](https://github.com/Aayyuuu3/LeetCode/tree/master/0704-binary-search) |
 | [0941-valid-mountain-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Aayyuuu3/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aayyuuu3/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aayyuuu3/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -237,6 +238,7 @@ My LeetCode solution and DSA practice.
 | ------- |
 | [0258-add-digits](https://github.com/Aayyuuu3/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Aayyuuu3/LeetCode/tree/master/0412-fizz-buzz) |
+| [1260-shift-2d-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -306,6 +308,7 @@ My LeetCode solution and DSA practice.
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Aayyuuu3/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/Aayyuuu3/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Heap (Priority Queue)

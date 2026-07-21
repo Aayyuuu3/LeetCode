@@ -9,6 +9,7 @@ My LeetCode solution and DSA practice.
 | [0002-add-two-numbers](https://github.com/Aayyuuu3/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Aayyuuu3/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Aayyuuu3/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Aayyuuu3/LeetCode/tree/master/0066-plus-one) |
@@ -140,6 +141,7 @@ My LeetCode solution and DSA practice.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Aayyuuu3/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Aayyuuu3/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Aayyuuu3/LeetCode/tree/master/0058-length-of-last-word) |
@@ -155,6 +157,7 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Aayyuuu3/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Aayyuuu3/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Aayyuuu3/LeetCode/tree/master/0169-majority-element) |

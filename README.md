@@ -154,6 +154,7 @@ My LeetCode solution and DSA practice.
 | [0242-valid-anagram](https://github.com/Aayyuuu3/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Aayyuuu3/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Aayyuuu3/LeetCode/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/Aayyuuu3/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Aayyuuu3/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aayyuuu3/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -176,6 +177,7 @@ My LeetCode solution and DSA practice.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Aayyuuu3/LeetCode/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/Aayyuuu3/LeetCode/tree/master/0575-distribute-candies) |
+| [0771-jewels-and-stones](https://github.com/Aayyuuu3/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Aayyuuu3/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Aayyuuu3/LeetCode/tree/master/1207-unique-number-of-occurrences) |

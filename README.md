@@ -163,6 +163,7 @@ My LeetCode solution and DSA practice.
 | [1189-maximum-number-of-balloons](https://github.com/Aayyuuu3/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aayyuuu3/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aayyuuu3/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Aayyuuu3/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2942-find-words-containing-character](https://github.com/Aayyuuu3/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -264,6 +265,7 @@ My LeetCode solution and DSA practice.
 | [1260-shift-2d-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Aayyuuu3/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aayyuuu3/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory

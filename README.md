@@ -81,6 +81,7 @@ My LeetCode solution and DSA practice.
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aayyuuu3/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aayyuuu3/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Aayyuuu3/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Aayyuuu3/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Aayyuuu3/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2614-prime-in-diagonal](https://github.com/Aayyuuu3/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2942-find-words-containing-character](https://github.com/Aayyuuu3/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -310,6 +311,7 @@ My LeetCode solution and DSA practice.
 | [0268-missing-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Aayyuuu3/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Aayyuuu3/LeetCode/tree/master/0389-find-the-difference) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Aayyuuu3/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Combinatorics
 |  |
 | ------- |

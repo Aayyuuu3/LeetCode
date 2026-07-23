@@ -25,6 +25,7 @@ My LeetCode solution and DSA practice.
 | [1492-the-kth-factor-of-n](https://github.com/Aayyuuu3/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Aayyuuu3/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1952-three-divisors](https://github.com/Aayyuuu3/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Aayyuuu3/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -75,6 +76,7 @@ My LeetCode solution and DSA practice.
 | [1672-richest-customer-wealth](https://github.com/Aayyuuu3/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Aayyuuu3/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Aayyuuu3/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1920-build-array-from-permutation](https://github.com/Aayyuuu3/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aayyuuu3/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -354,4 +356,8 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aayyuuu3/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Aayyuuu3/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->

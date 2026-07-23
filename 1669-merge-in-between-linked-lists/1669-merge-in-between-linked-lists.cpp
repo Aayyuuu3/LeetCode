@@ -11,8 +11,8 @@ public:
             temp1 = temp1->next;
             k++;
         }
-        k = -1;
-        while(k != b){
+        k = 0;
+        while(k != (b+1)){
             temp2 = temp2->next;
             k++;
         }

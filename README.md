@@ -122,6 +122,7 @@ My LeetCode solution and DSA practice.
 | [0876-middle-of-the-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/Aayyuuu3/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/Aayyuuu3/LeetCode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers

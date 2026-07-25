@@ -39,6 +39,7 @@ My LeetCode solution and DSA practice.
 | [2652-sum-multiples](https://github.com/Aayyuuu3/LeetCode/tree/master/2652-sum-multiples) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Aayyuuu3/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Aayyuuu3/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aayyuuu3/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -331,6 +332,7 @@ My LeetCode solution and DSA practice.
 | [1331-rank-transform-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Aayyuuu3/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aayyuuu3/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3536-maximum-product-of-two-digits](https://github.com/Aayyuuu3/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |

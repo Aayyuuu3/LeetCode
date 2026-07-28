@@ -11,6 +11,7 @@ My LeetCode solution and DSA practice.
 | [0009-palindrome-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Aayyuuu3/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Aayyuuu3/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aayyuuu3/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Aayyuuu3/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0189-rotate-array) |
@@ -53,6 +54,7 @@ My LeetCode solution and DSA practice.
 | [0027-remove-element](https://github.com/Aayyuuu3/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Aayyuuu3/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Aayyuuu3/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Aayyuuu3/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aayyuuu3/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aayyuuu3/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -385,6 +387,7 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Aayyuuu3/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Aayyuuu3/LeetCode/tree/master/0048-rotate-image) |
 | [0289-game-of-life](https://github.com/Aayyuuu3/LeetCode/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Aayyuuu3/LeetCode/tree/master/1672-richest-customer-wealth) |

@@ -191,6 +191,7 @@ My LeetCode solution and DSA practice.
 | [0389-find-the-difference](https://github.com/Aayyuuu3/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Aayyuuu3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Aayyuuu3/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Aayyuuu3/LeetCode/tree/master/0796-rotate-string) |
 | [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Aayyuuu3/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Aayyuuu3/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -420,4 +421,8 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Aayyuuu3/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

@@ -76,6 +76,7 @@ My LeetCode solution and DSA practice.
 | [0575-distribute-candies](https://github.com/Aayyuuu3/LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aayyuuu3/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Aayyuuu3/LeetCode/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/Aayyuuu3/LeetCode/tree/master/0860-lemonade-change) |
 | [0941-valid-mountain-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Aayyuuu3/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -419,6 +420,7 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Aayyuuu3/LeetCode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Aayyuuu3/LeetCode/tree/master/0860-lemonade-change) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aayyuuu3/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Counting Sort
 |  |

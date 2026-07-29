@@ -21,7 +21,8 @@ public:
                 }
                 else if(bill_5 >= 3)
                      bill_5 -= 3;
-                else return false;
+                else 
+                    return false;
             }
         }
         return true;

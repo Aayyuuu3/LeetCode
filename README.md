@@ -51,6 +51,7 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Aayyuuu3/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aayyuuu3/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Aayyuuu3/LeetCode/tree/master/0035-search-insert-position) |
@@ -143,6 +144,7 @@ My LeetCode solution and DSA practice.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aayyuuu3/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aayyuuu3/LeetCode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0061-rotate-list) |
@@ -423,6 +425,7 @@ My LeetCode solution and DSA practice.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aayyuuu3/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Aayyuuu3/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Aayyuuu3/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Aayyuuu3/LeetCode/tree/master/0860-lemonade-change) |

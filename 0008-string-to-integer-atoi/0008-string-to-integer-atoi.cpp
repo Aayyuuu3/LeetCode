@@ -31,6 +31,6 @@ public:
             if(sign*ans <= INT_MIN)
                 return INT_MIN;
         }
-        return sign*ans;
+        return sign * ans;
     }
 };

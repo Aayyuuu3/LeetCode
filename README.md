@@ -209,6 +209,7 @@ My LeetCode solution and DSA practice.
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Aayyuuu3/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2942-find-words-containing-character](https://github.com/Aayyuuu3/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -237,6 +238,7 @@ My LeetCode solution and DSA practice.
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aayyuuu3/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aayyuuu3/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Aayyuuu3/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Aayyuuu3/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Tree
 |  |
@@ -357,6 +359,7 @@ My LeetCode solution and DSA practice.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Aayyuuu3/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aayyuuu3/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aayyuuu3/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -386,6 +389,7 @@ My LeetCode solution and DSA practice.
 | [0169-majority-element](https://github.com/Aayyuuu3/LeetCode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Aayyuuu3/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Aayyuuu3/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Brainteaser
 |  |
@@ -432,6 +436,7 @@ My LeetCode solution and DSA practice.
 | [0860-lemonade-change](https://github.com/Aayyuuu3/LeetCode/tree/master/0860-lemonade-change) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aayyuuu3/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
 |  |
 | ------- |

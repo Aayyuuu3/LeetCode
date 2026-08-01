@@ -76,6 +76,7 @@ My LeetCode solution and DSA practice.
 | [0414-third-maximum-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Aayyuuu3/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Aayyuuu3/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Aayyuuu3/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Aayyuuu3/LeetCode/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/Aayyuuu3/LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aayyuuu3/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -173,6 +174,7 @@ My LeetCode solution and DSA practice.
 | [0144-binary-tree-preorder-traversal](https://github.com/Aayyuuu3/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aayyuuu3/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Aayyuuu3/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -230,6 +232,7 @@ My LeetCode solution and DSA practice.
 | [0349-intersection-of-two-arrays](https://github.com/Aayyuuu3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Aayyuuu3/LeetCode/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/Aayyuuu3/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Aayyuuu3/LeetCode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/Aayyuuu3/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |
@@ -449,4 +452,8 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Aayyuuu3/LeetCode/tree/master/0796-rotate-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Aayyuuu3/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

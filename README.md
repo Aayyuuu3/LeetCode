@@ -210,6 +210,7 @@ My LeetCode solution and DSA practice.
 | [0242-valid-anagram](https://github.com/Aayyuuu3/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Aayyuuu3/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Aayyuuu3/LeetCode/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/Aayyuuu3/LeetCode/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/Aayyuuu3/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Aayyuuu3/LeetCode/tree/master/0796-rotate-string) |
 | [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |

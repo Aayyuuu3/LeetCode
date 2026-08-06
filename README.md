@@ -85,6 +85,7 @@ My LeetCode solution and DSA practice.
 | [0575-distribute-candies](https://github.com/Aayyuuu3/LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aayyuuu3/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Aayyuuu3/LeetCode/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Aayyuuu3/LeetCode/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Aayyuuu3/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Aayyuuu3/LeetCode/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0941-valid-mountain-array) |
@@ -185,6 +186,7 @@ My LeetCode solution and DSA practice.
 | [0234-palindrome-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Aayyuuu3/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Aayyuuu3/LeetCode/tree/master/0735-asteroid-collision) |
 ## Recursion
 |  |
 | ------- |
@@ -335,6 +337,7 @@ My LeetCode solution and DSA practice.
 | [0258-add-digits](https://github.com/Aayyuuu3/LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Aayyuuu3/LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Aayyuuu3/LeetCode/tree/master/0412-fizz-buzz) |
+| [0735-asteroid-collision](https://github.com/Aayyuuu3/LeetCode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Aayyuuu3/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aayyuuu3/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |

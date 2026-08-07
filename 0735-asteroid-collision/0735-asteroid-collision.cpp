@@ -15,7 +15,7 @@ public:
                     else if(abs(st.top()) == abs(asteroids[i]))
                         st.pop();
                     else{
-                        while(!st.empty() && st.top() > 0 && asteroids[i] < 0){
+                        while(!st.empty() && st.top() > 0){
                             if(abs(st.top()) < abs(asteroids[i]))
                                 st.pop();
                             else if(abs(st.top()) == abs(asteroids[i])){

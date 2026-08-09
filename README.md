@@ -65,6 +65,7 @@ My LeetCode solution and DSA practice.
 | [0075-sort-colors](https://github.com/Aayyuuu3/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aayyuuu3/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayyuuu3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Aayyuuu3/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Aayyuuu3/LeetCode/tree/master/0169-majority-element) |
@@ -315,6 +316,7 @@ My LeetCode solution and DSA practice.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aayyuuu3/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Aayyuuu3/LeetCode/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayyuuu3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Aayyuuu3/LeetCode/tree/master/0877-stone-game) |
 ## Memoization

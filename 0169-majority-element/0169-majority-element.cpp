@@ -1,13 +1,15 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        unordered_multiset <int> st;
-        int k = nums.size() / 2;
-        for(auto i: nums){
-            st.insert(i);
-            if(st.count(i) > k)
-                return i;
+        int var = 0;
+        int element = 0;
+        for(int num: nums){
+            if(var == 0)
+                element = num;
+            if(num == element)
+                var++;
+            else var--;
         }
-        return -1;
+        return element;
     }
 };

@@ -502,4 +502,8 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aayyuuu3/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aayyuuu3/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

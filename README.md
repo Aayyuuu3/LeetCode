@@ -88,6 +88,7 @@ My LeetCode solution and DSA practice.
 | [0496-next-greater-element-i](https://github.com/Aayyuuu3/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Aayyuuu3/LeetCode/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Aayyuuu3/LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aayyuuu3/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Aayyuuu3/LeetCode/tree/master/0704-binary-search) |
@@ -139,6 +140,7 @@ My LeetCode solution and DSA practice.
 | [0268-missing-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aayyuuu3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aayyuuu3/LeetCode/tree/master/0704-binary-search) |
 ## Linked List
 |  |

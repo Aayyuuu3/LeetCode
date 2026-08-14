@@ -99,6 +99,7 @@ My LeetCode solution and DSA practice.
 | [0877-stone-game](https://github.com/Aayyuuu3/LeetCode/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aayyuuu3/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/Aayyuuu3/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1260-shift-2d-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -148,6 +149,7 @@ My LeetCode solution and DSA practice.
 | [0540-single-element-in-a-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aayyuuu3/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aayyuuu3/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aayyuuu3/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aayyuuu3/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aayyuuu3/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Linked List

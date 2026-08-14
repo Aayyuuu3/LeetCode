@@ -249,6 +249,7 @@ My LeetCode solution and DSA practice.
 | [2942-find-words-containing-character](https://github.com/Aayyuuu3/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aayyuuu3/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -279,6 +280,7 @@ My LeetCode solution and DSA practice.
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aayyuuu3/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Aayyuuu3/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aayyuuu3/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Aayyuuu3/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/Aayyuuu3/LeetCode/tree/master/3731-find-missing-elements) |
 ## Tree
@@ -346,6 +348,7 @@ My LeetCode solution and DSA practice.
 | [0219-contains-duplicate-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Aayyuuu3/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aayyuuu3/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aayyuuu3/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |

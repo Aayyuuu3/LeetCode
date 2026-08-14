@@ -1,9 +1,12 @@
 class Solution {
 public:
     int shipWithinDays(vector<int>& weights, int days) {
-        int low = *max_element(weights.begin(),weights.end());
+        int low = 0;
         int high = 0;
-        for(int weight: weights) high += weight;
+        for(int weight: weights){
+            low = max(low,weight);
+            high += weight;
+        }
         int ans = INT_MAX;
         while(low <= high){
             int mid = low + (high - low) / 2;

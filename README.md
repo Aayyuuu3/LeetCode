@@ -248,6 +248,7 @@ My LeetCode solution and DSA practice.
 | [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Aayyuuu3/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Aayyuuu3/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aayyuuu3/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/Aayyuuu3/LeetCode/tree/master/1528-shuffle-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aayyuuu3/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aayyuuu3/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -285,6 +286,7 @@ My LeetCode solution and DSA practice.
 | [1189-maximum-number-of-balloons](https://github.com/Aayyuuu3/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Aayyuuu3/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aayyuuu3/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aayyuuu3/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aayyuuu3/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -360,6 +362,7 @@ My LeetCode solution and DSA practice.
 | [0239-sliding-window-maximum](https://github.com/Aayyuuu3/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/Aayyuuu3/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aayyuuu3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aayyuuu3/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aayyuuu3/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aayyuuu3/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum

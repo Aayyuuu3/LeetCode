@@ -242,6 +242,7 @@ My LeetCode solution and DSA practice.
 | [0389-find-the-difference](https://github.com/Aayyuuu3/LeetCode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Aayyuuu3/LeetCode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Aayyuuu3/LeetCode/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aayyuuu3/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/Aayyuuu3/LeetCode/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/Aayyuuu3/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Aayyuuu3/LeetCode/tree/master/0796-rotate-string) |
@@ -278,6 +279,7 @@ My LeetCode solution and DSA practice.
 | [0349-intersection-of-two-arrays](https://github.com/Aayyuuu3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Aayyuuu3/LeetCode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aayyuuu3/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Aayyuuu3/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Aayyuuu3/LeetCode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/Aayyuuu3/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -360,6 +362,7 @@ My LeetCode solution and DSA practice.
 | [0209-minimum-size-subarray-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Aayyuuu3/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aayyuuu3/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Aayyuuu3/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aayyuuu3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aayyuuu3/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |

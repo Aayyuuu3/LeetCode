@@ -135,6 +135,7 @@ My LeetCode solution and DSA practice.
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Aayyuuu3/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2614-prime-in-diagonal](https://github.com/Aayyuuu3/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2942-find-words-containing-character](https://github.com/Aayyuuu3/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Aayyuuu3/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3731-find-missing-elements](https://github.com/Aayyuuu3/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -402,6 +403,7 @@ My LeetCode solution and DSA practice.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aayyuuu3/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory

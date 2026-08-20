@@ -102,6 +102,7 @@ My LeetCode solution and DSA practice.
 | [0930-binary-subarrays-with-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-valid-mountain-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aayyuuu3/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aayyuuu3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aayyuuu3/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/Aayyuuu3/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -292,6 +293,7 @@ My LeetCode solution and DSA practice.
 | [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/Aayyuuu3/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aayyuuu3/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Aayyuuu3/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Aayyuuu3/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aayyuuu3/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -374,6 +376,7 @@ My LeetCode solution and DSA practice.
 | [0424-longest-repeating-character-replacement](https://github.com/Aayyuuu3/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Aayyuuu3/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aayyuuu3/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aayyuuu3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aayyuuu3/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aayyuuu3/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -473,6 +476,7 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aayyuuu3/LeetCode/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aayyuuu3/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Aayyuuu3/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

@@ -117,6 +117,7 @@ My LeetCode solution and DSA practice.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aayyuuu3/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aayyuuu3/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Aayyuuu3/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Aayyuuu3/LeetCode/tree/master/1528-shuffle-string) |
@@ -363,6 +364,7 @@ My LeetCode solution and DSA practice.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayyuuu3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Aayyuuu3/LeetCode/tree/master/0877-stone-game) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aayyuuu3/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
 | ------- |
@@ -384,6 +386,7 @@ My LeetCode solution and DSA practice.
 | [1248-count-number-of-nice-subarrays](https://github.com/Aayyuuu3/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aayyuuu3/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aayyuuu3/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aayyuuu3/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aayyuuu3/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |

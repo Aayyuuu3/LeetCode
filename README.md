@@ -142,6 +142,7 @@ My LeetCode solution and DSA practice.
 | [2942-find-words-containing-character](https://github.com/Aayyuuu3/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Aayyuuu3/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aayyuuu3/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Aayyuuu3/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -312,6 +313,7 @@ My LeetCode solution and DSA practice.
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aayyuuu3/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Aayyuuu3/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aayyuuu3/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Aayyuuu3/LeetCode/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |

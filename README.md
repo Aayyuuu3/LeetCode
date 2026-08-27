@@ -95,6 +95,7 @@ My LeetCode solution and DSA practice.
 | [0540-single-element-in-a-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Aayyuuu3/LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aayyuuu3/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0697-degree-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Aayyuuu3/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Aayyuuu3/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Aayyuuu3/LeetCode/tree/master/0735-asteroid-collision) |
@@ -299,6 +300,7 @@ My LeetCode solution and DSA practice.
 | [0424-longest-repeating-character-replacement](https://github.com/Aayyuuu3/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Aayyuuu3/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Aayyuuu3/LeetCode/tree/master/0575-distribute-candies) |
+| [0697-degree-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/Aayyuuu3/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |
 | [0904-fruit-into-baskets](https://github.com/Aayyuuu3/LeetCode/tree/master/0904-fruit-into-baskets) |

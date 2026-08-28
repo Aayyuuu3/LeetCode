@@ -65,6 +65,7 @@ My LeetCode solution and DSA practice.
 | [0042-trapping-rain-water](https://github.com/Aayyuuu3/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Aayyuuu3/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Aayyuuu3/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aayyuuu3/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Aayyuuu3/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aayyuuu3/LeetCode/tree/master/0075-sort-colors) |
@@ -417,6 +418,7 @@ My LeetCode solution and DSA practice.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aayyuuu3/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Aayyuuu3/LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Aayyuuu3/LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Aayyuuu3/LeetCode/tree/master/0412-fizz-buzz) |
@@ -516,6 +518,7 @@ My LeetCode solution and DSA practice.
 | ------- |
 | [0036-valid-sudoku](https://github.com/Aayyuuu3/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Aayyuuu3/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Aayyuuu3/LeetCode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Aayyuuu3/LeetCode/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Aayyuuu3/LeetCode/tree/master/1672-richest-customer-wealth) |

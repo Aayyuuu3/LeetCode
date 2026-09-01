@@ -236,6 +236,7 @@ My LeetCode solution and DSA practice.
 | [0503-next-greater-element-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Aayyuuu3/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Aayyuuu3/LeetCode/tree/master/0735-asteroid-collision) |
+| [2390-removing-stars-from-a-string](https://github.com/Aayyuuu3/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -279,6 +280,7 @@ My LeetCode solution and DSA practice.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aayyuuu3/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aayyuuu3/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2390-removing-stars-from-a-string](https://github.com/Aayyuuu3/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Aayyuuu3/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2942-find-words-containing-character](https://github.com/Aayyuuu3/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -434,6 +436,7 @@ My LeetCode solution and DSA practice.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aayyuuu3/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2390-removing-stars-from-a-string](https://github.com/Aayyuuu3/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |

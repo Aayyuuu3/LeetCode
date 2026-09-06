@@ -68,6 +68,7 @@ My LeetCode solution and DSA practice.
 | [0048-rotate-image](https://github.com/Aayyuuu3/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aayyuuu3/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aayyuuu3/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Aayyuuu3/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Aayyuuu3/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aayyuuu3/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -469,6 +470,7 @@ My LeetCode solution and DSA practice.
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Aayyuuu3/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aayyuuu3/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aayyuuu3/LeetCode/tree/master/0169-majority-element) |
@@ -644,4 +646,8 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Aayyuuu3/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

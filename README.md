@@ -123,6 +123,7 @@ My LeetCode solution and DSA practice.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aayyuuu3/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aayyuuu3/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1383-maximum-performance-of-a-team](https://github.com/Aayyuuu3/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aayyuuu3/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aayyuuu3/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -487,6 +488,7 @@ My LeetCode solution and DSA practice.
 | [0948-bag-of-tokens](https://github.com/Aayyuuu3/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1383-maximum-performance-of-a-team](https://github.com/Aayyuuu3/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Aayyuuu3/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/Aayyuuu3/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
@@ -552,6 +554,7 @@ My LeetCode solution and DSA practice.
 | [0215-kth-largest-element-in-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Aayyuuu3/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/Aayyuuu3/LeetCode/tree/master/0506-relative-ranks) |
+| [1383-maximum-performance-of-a-team](https://github.com/Aayyuuu3/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -581,6 +584,7 @@ My LeetCode solution and DSA practice.
 | [0860-lemonade-change](https://github.com/Aayyuuu3/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Aayyuuu3/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Aayyuuu3/LeetCode/tree/master/0948-bag-of-tokens) |
+| [1383-maximum-performance-of-a-team](https://github.com/Aayyuuu3/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aayyuuu3/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/Aayyuuu3/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1927-sum-game](https://github.com/Aayyuuu3/LeetCode/tree/master/1927-sum-game) |

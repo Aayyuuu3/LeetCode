@@ -70,6 +70,7 @@ My LeetCode solution and DSA practice.
 | [0054-spiral-matrix](https://github.com/Aayyuuu3/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aayyuuu3/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Aayyuuu3/LeetCode/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Aayyuuu3/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aayyuuu3/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -440,6 +441,7 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aayyuuu3/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Aayyuuu3/LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Aayyuuu3/LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Aayyuuu3/LeetCode/tree/master/0412-fizz-buzz) |
@@ -551,6 +553,7 @@ My LeetCode solution and DSA practice.
 | [0036-valid-sudoku](https://github.com/Aayyuuu3/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Aayyuuu3/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aayyuuu3/LeetCode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/Aayyuuu3/LeetCode/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Aayyuuu3/LeetCode/tree/master/1672-richest-customer-wealth) |

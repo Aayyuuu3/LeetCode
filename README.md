@@ -677,4 +677,8 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/Aayyuuu3/LeetCode/tree/master/1029-two-city-scheduling) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aayyuuu3/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

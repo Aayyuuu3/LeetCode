@@ -15,6 +15,7 @@ My LeetCode solution and DSA practice.
 | [0050-powx-n](https://github.com/Aayyuuu3/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Aayyuuu3/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Aayyuuu3/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Aayyuuu3/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Aayyuuu3/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Aayyuuu3/LeetCode/tree/master/0258-add-digits) |
@@ -406,6 +407,7 @@ My LeetCode solution and DSA practice.
 | [0042-trapping-rain-water](https://github.com/Aayyuuu3/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aayyuuu3/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Aayyuuu3/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayyuuu3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/Aayyuuu3/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0509-fibonacci-number) |
@@ -417,6 +419,7 @@ My LeetCode solution and DSA practice.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aayyuuu3/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |

@@ -167,6 +167,7 @@ My LeetCode solution and DSA practice.
 | [2942-find-words-containing-character](https://github.com/Aayyuuu3/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Aayyuuu3/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3693-climbing-stairs-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aayyuuu3/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Aayyuuu3/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -416,6 +417,7 @@ My LeetCode solution and DSA practice.
 | [0877-stone-game](https://github.com/Aayyuuu3/LeetCode/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aayyuuu3/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Aayyuuu3/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [3693-climbing-stairs-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |

@@ -265,6 +265,7 @@ My LeetCode solution and DSA practice.
 | [0503-next-greater-element-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Aayyuuu3/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Aayyuuu3/LeetCode/tree/master/0735-asteroid-collision) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aayyuuu3/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Aayyuuu3/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -302,6 +303,7 @@ My LeetCode solution and DSA practice.
 | [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Aayyuuu3/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Aayyuuu3/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aayyuuu3/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aayyuuu3/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/Aayyuuu3/LeetCode/tree/master/1528-shuffle-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Aayyuuu3/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -687,6 +689,7 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Aayyuuu3/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aayyuuu3/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Timsort
 |  |
 | ------- |

@@ -13,6 +13,7 @@ My LeetCode solution and DSA practice.
 | [0013-roman-to-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Aayyuuu3/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aayyuuu3/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Aayyuuu3/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Aayyuuu3/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Aayyuuu3/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Aayyuuu3/LeetCode/tree/master/0070-climbing-stairs) |
@@ -418,6 +419,7 @@ My LeetCode solution and DSA practice.
 | [0042-trapping-rain-water](https://github.com/Aayyuuu3/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aayyuuu3/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Aayyuuu3/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aayyuuu3/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayyuuu3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Aayyuuu3/LeetCode/tree/master/0198-house-robber) |
@@ -563,6 +565,7 @@ My LeetCode solution and DSA practice.
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aayyuuu3/LeetCode/tree/master/0062-unique-paths) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting

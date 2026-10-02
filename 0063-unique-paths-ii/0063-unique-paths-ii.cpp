@@ -9,8 +9,8 @@ public:
                 prev[i] = 1;
             else break;
         }
+        vector<int> curr(n);
         for(int i = 1; i < m; i ++){
-            vector<int> curr(n);
             curr[0] = (obstacleGrid[i][0] == 1)? 0:prev[0];
             for(int j = 1; j < n; j ++){
                 if(obstacleGrid[i][j] == 1)

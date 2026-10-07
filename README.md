@@ -316,6 +316,7 @@ My LeetCode solution and DSA practice.
 | [1143-longest-common-subsequence](https://github.com/Aayyuuu3/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Aayyuuu3/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aayyuuu3/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aayyuuu3/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aayyuuu3/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/Aayyuuu3/LeetCode/tree/master/1528-shuffle-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Aayyuuu3/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -449,6 +450,7 @@ My LeetCode solution and DSA practice.
 | [0983-minimum-cost-for-tickets](https://github.com/Aayyuuu3/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1137-n-th-tribonacci-number](https://github.com/Aayyuuu3/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Aayyuuu3/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aayyuuu3/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aayyuuu3/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Aayyuuu3/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3693-climbing-stairs-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/3693-climbing-stairs-ii) |

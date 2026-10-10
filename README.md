@@ -299,6 +299,7 @@ My LeetCode solution and DSA practice.
 | [0013-roman-to-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Aayyuuu3/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Aayyuuu3/LeetCode/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/Aayyuuu3/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Aayyuuu3/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Aayyuuu3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aayyuuu3/LeetCode/tree/master/0242-valid-anagram) |
@@ -437,6 +438,7 @@ My LeetCode solution and DSA practice.
 | [0062-unique-paths](https://github.com/Aayyuuu3/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Aayyuuu3/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Aayyuuu3/LeetCode/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Aayyuuu3/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayyuuu3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Aayyuuu3/LeetCode/tree/master/0198-house-robber) |

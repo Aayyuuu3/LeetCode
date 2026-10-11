@@ -283,6 +283,7 @@ My LeetCode solution and DSA practice.
 | [0002-add-two-numbers](https://github.com/Aayyuuu3/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Aayyuuu3/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aayyuuu3/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Aayyuuu3/LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Aayyuuu3/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aayyuuu3/LeetCode/tree/master/0231-power-of-two) |
@@ -298,6 +299,7 @@ My LeetCode solution and DSA practice.
 | [0012-integer-to-roman](https://github.com/Aayyuuu3/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Aayyuuu3/LeetCode/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Aayyuuu3/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Aayyuuu3/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Aayyuuu3/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Aayyuuu3/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -433,6 +435,7 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aayyuuu3/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Aayyuuu3/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aayyuuu3/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Aayyuuu3/LeetCode/tree/master/0062-unique-paths) |
@@ -660,6 +663,7 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aayyuuu3/LeetCode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Aayyuuu3/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aayyuuu3/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Aayyuuu3/LeetCode/tree/master/0402-remove-k-digits) |

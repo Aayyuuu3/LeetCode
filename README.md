@@ -90,6 +90,7 @@ My LeetCode solution and DSA practice.
 | [0169-majority-element](https://github.com/Aayyuuu3/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Aayyuuu3/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Aayyuuu3/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -408,6 +409,7 @@ My LeetCode solution and DSA practice.
 | [0110-balanced-binary-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aayyuuu3/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aayyuuu3/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Aayyuuu3/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Aayyuuu3/LeetCode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
@@ -415,6 +417,7 @@ My LeetCode solution and DSA practice.
 | ------- |
 | [0100-same-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/Aayyuuu3/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Aayyuuu3/LeetCode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
@@ -631,6 +634,7 @@ My LeetCode solution and DSA practice.
 | [0059-spiral-matrix-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Aayyuuu3/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Aayyuuu3/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Aayyuuu3/LeetCode/tree/master/0289-game-of-life) |
 | [0931-minimum-falling-path-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -775,6 +779,7 @@ My LeetCode solution and DSA practice.
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Aayyuuu3/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aayyuuu3/LeetCode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |

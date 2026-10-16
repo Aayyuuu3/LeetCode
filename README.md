@@ -416,6 +416,7 @@ My LeetCode solution and DSA practice.
 | [0226-invert-binary-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Aayyuuu3/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Aayyuuu3/LeetCode/tree/master/0733-flood-fill) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Aayyuuu3/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -425,6 +426,7 @@ My LeetCode solution and DSA practice.
 | [0226-invert-binary-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Aayyuuu3/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Aayyuuu3/LeetCode/tree/master/0733-flood-fill) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Aayyuuu3/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -787,10 +789,12 @@ My LeetCode solution and DSA practice.
 | ------- |
 | [0200-number-of-islands](https://github.com/Aayyuuu3/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aayyuuu3/LeetCode/tree/master/0547-number-of-provinces) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Aayyuuu3/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Aayyuuu3/LeetCode/tree/master/0547-number-of-provinces) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Aayyuuu3/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Indexed Tree
 |  |
 | ------- |

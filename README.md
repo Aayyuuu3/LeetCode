@@ -113,6 +113,7 @@ My LeetCode solution and DSA practice.
 | [0503-next-greater-element-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Aayyuuu3/LeetCode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Aayyuuu3/LeetCode/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/Aayyuuu3/LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aayyuuu3/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aayyuuu3/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -427,6 +428,7 @@ My LeetCode solution and DSA practice.
 | [0101-symmetric-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Aayyuuu3/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/Aayyuuu3/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Aayyuuu3/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Aayyuuu3/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Aayyuuu3/LeetCode/tree/master/0994-rotting-oranges) |
@@ -467,6 +469,7 @@ My LeetCode solution and DSA practice.
 | [0435-non-overlapping-intervals](https://github.com/Aayyuuu3/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Aayyuuu3/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/Aayyuuu3/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aayyuuu3/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Aayyuuu3/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -649,6 +652,7 @@ My LeetCode solution and DSA practice.
 | [0200-number-of-islands](https://github.com/Aayyuuu3/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Aayyuuu3/LeetCode/tree/master/0289-game-of-life) |
+| [0542-01-matrix](https://github.com/Aayyuuu3/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Aayyuuu3/LeetCode/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Aayyuuu3/LeetCode/tree/master/0994-rotting-oranges) |

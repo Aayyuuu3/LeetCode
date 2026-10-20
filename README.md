@@ -115,6 +115,7 @@ My LeetCode solution and DSA practice.
 | [0506-relative-ranks](https://github.com/Aayyuuu3/LeetCode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Aayyuuu3/LeetCode/tree/master/0542-01-matrix) |
+| [0561-array-partition](https://github.com/Aayyuuu3/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Aayyuuu3/LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aayyuuu3/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aayyuuu3/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -587,6 +588,7 @@ My LeetCode solution and DSA practice.
 | [0455-assign-cookies](https://github.com/Aayyuuu3/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Aayyuuu3/LeetCode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Aayyuuu3/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Aayyuuu3/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aayyuuu3/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aayyuuu3/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/Aayyuuu3/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -707,6 +709,7 @@ My LeetCode solution and DSA practice.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aayyuuu3/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Aayyuuu3/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Aayyuuu3/LeetCode/tree/master/0502-ipo) |
+| [0561-array-partition](https://github.com/Aayyuuu3/LeetCode/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aayyuuu3/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Aayyuuu3/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Aayyuuu3/LeetCode/tree/master/0860-lemonade-change) |
@@ -728,6 +731,7 @@ My LeetCode solution and DSA practice.
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Aayyuuu3/LeetCode/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |

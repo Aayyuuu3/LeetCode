@@ -143,6 +143,7 @@ My LeetCode solution and DSA practice.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aayyuuu3/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/Aayyuuu3/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/Aayyuuu3/LeetCode/tree/master/1029-two-city-scheduling) |
+| [1051-height-checker](https://github.com/Aayyuuu3/LeetCode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Aayyuuu3/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aayyuuu3/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
@@ -596,6 +597,7 @@ My LeetCode solution and DSA practice.
 | [0948-bag-of-tokens](https://github.com/Aayyuuu3/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Aayyuuu3/LeetCode/tree/master/1029-two-city-scheduling) |
+| [1051-height-checker](https://github.com/Aayyuuu3/LeetCode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1383-maximum-performance-of-a-team](https://github.com/Aayyuuu3/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -733,6 +735,7 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Aayyuuu3/LeetCode/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/Aayyuuu3/LeetCode/tree/master/1051-height-checker) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
@@ -840,4 +843,8 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Aayyuuu3/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Aayyuuu3/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->

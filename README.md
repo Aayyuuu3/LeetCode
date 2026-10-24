@@ -41,6 +41,7 @@ My LeetCode solution and DSA practice.
 | [1952-three-divisors](https://github.com/Aayyuuu3/LeetCode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/Aayyuuu3/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Aayyuuu3/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Aayyuuu3/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Aayyuuu3/LeetCode/tree/master/2469-convert-the-temperature) |
@@ -349,6 +350,7 @@ My LeetCode solution and DSA practice.
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/Aayyuuu3/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Aayyuuu3/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2409-count-days-spent-together](https://github.com/Aayyuuu3/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/Aayyuuu3/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

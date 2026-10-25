@@ -149,6 +149,7 @@ My LeetCode solution and DSA practice.
 | [1207-unique-number-of-occurrences](https://github.com/Aayyuuu3/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aayyuuu3/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
+| [1254-number-of-closed-islands](https://github.com/Aayyuuu3/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aayyuuu3/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -433,6 +434,7 @@ My LeetCode solution and DSA practice.
 | [0733-flood-fill](https://github.com/Aayyuuu3/LeetCode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Aayyuuu3/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Aayyuuu3/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Aayyuuu3/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aayyuuu3/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
@@ -448,6 +450,7 @@ My LeetCode solution and DSA practice.
 | [0785-is-graph-bipartite](https://github.com/Aayyuuu3/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Aayyuuu3/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Aayyuuu3/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Aayyuuu3/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aayyuuu3/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
@@ -677,6 +680,7 @@ My LeetCode solution and DSA practice.
 | [0931-minimum-falling-path-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Aayyuuu3/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Aayyuuu3/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Aayyuuu3/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Aayyuuu3/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/Aayyuuu3/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -827,6 +831,7 @@ My LeetCode solution and DSA practice.
 | [0547-number-of-provinces](https://github.com/Aayyuuu3/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Aayyuuu3/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Aayyuuu3/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Aayyuuu3/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aayyuuu3/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |

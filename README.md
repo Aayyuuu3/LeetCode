@@ -430,6 +430,7 @@ My LeetCode solution and DSA practice.
 | [0144-binary-tree-preorder-traversal](https://github.com/Aayyuuu3/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aayyuuu3/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Aayyuuu3/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Aayyuuu3/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Aayyuuu3/LeetCode/tree/master/0547-number-of-provinces) |
@@ -446,6 +447,7 @@ My LeetCode solution and DSA practice.
 | [0101-symmetric-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/Aayyuuu3/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aayyuuu3/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Aayyuuu3/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/Aayyuuu3/LeetCode/tree/master/0542-01-matrix) |
@@ -843,6 +845,7 @@ My LeetCode solution and DSA practice.
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Aayyuuu3/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Aayyuuu3/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Aayyuuu3/LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -870,5 +873,10 @@ My LeetCode solution and DSA practice.
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Aayyuuu3/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0210-course-schedule-ii) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Aayyuuu3/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->

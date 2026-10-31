@@ -104,6 +104,7 @@ My LeetCode solution and DSA practice.
 | [0268-missing-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aayyuuu3/LeetCode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/Aayyuuu3/LeetCode/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/Aayyuuu3/LeetCode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Aayyuuu3/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0414-third-maximum-number) |
@@ -451,6 +452,7 @@ My LeetCode solution and DSA practice.
 | [0207-course-schedule](https://github.com/Aayyuuu3/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Aayyuuu3/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Aayyuuu3/LeetCode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Aayyuuu3/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Aayyuuu3/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Aayyuuu3/LeetCode/tree/master/0733-flood-fill) |
@@ -492,6 +494,7 @@ My LeetCode solution and DSA practice.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayyuuu3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Aayyuuu3/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Aayyuuu3/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Aayyuuu3/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Aayyuuu3/LeetCode/tree/master/0509-fibonacci-number) |
@@ -884,9 +887,14 @@ My LeetCode solution and DSA practice.
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Aayyuuu3/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Aayyuuu3/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

@@ -148,6 +148,7 @@ My LeetCode solution and DSA practice.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aayyuuu3/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/Aayyuuu3/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/Aayyuuu3/LeetCode/tree/master/1029-two-city-scheduling) |
+| [1049-last-stone-weight-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/Aayyuuu3/LeetCode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Aayyuuu3/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aayyuuu3/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -510,6 +511,7 @@ My LeetCode solution and DSA practice.
 | [0877-stone-game](https://github.com/Aayyuuu3/LeetCode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aayyuuu3/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [1049-last-stone-weight-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Aayyuuu3/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Aayyuuu3/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aayyuuu3/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -892,11 +894,13 @@ My LeetCode solution and DSA practice.
 | [0322-coin-change](https://github.com/Aayyuuu3/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |

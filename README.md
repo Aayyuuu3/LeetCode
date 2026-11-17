@@ -197,6 +197,7 @@ My LeetCode solution and DSA practice.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aayyuuu3/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Aayyuuu3/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aayyuuu3/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Aayyuuu3/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aayyuuu3/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/3693-climbing-stairs-ii) |

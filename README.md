@@ -869,6 +869,7 @@ My LeetCode solution and DSA practice.
 | [0547-number-of-provinces](https://github.com/Aayyuuu3/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Aayyuuu3/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aayyuuu3/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1791-find-center-of-star-graph](https://github.com/Aayyuuu3/LeetCode/tree/master/1791-find-center-of-star-graph) |
 ## Binary Indexed Tree
 |  |
 | ------- |

@@ -83,6 +83,7 @@ My LeetCode solution and DSA practice.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aayyuuu3/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Aayyuuu3/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayyuuu3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aayyuuu3/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -498,6 +499,7 @@ My LeetCode solution and DSA practice.
 | [0063-unique-paths-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Aayyuuu3/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Aayyuuu3/LeetCode/tree/master/0072-edit-distance) |
+| [0119-pascals-triangle-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Aayyuuu3/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aayyuuu3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Aayyuuu3/LeetCode/tree/master/0198-house-robber) |

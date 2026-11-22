@@ -187,6 +187,7 @@ My LeetCode solution and DSA practice.
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aayyuuu3/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aayyuuu3/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aayyuuu3/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2140-solving-questions-with-brainpower](https://github.com/Aayyuuu3/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aayyuuu3/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Aayyuuu3/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -532,6 +533,7 @@ My LeetCode solution and DSA practice.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aayyuuu3/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aayyuuu3/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Aayyuuu3/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2140-solving-questions-with-brainpower](https://github.com/Aayyuuu3/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
 | [3693-climbing-stairs-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |

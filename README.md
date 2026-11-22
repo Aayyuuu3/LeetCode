@@ -361,6 +361,7 @@ My LeetCode solution and DSA practice.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aayyuuu3/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Aayyuuu3/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aayyuuu3/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/Aayyuuu3/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Aayyuuu3/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2409-count-days-spent-together](https://github.com/Aayyuuu3/LeetCode/tree/master/2409-count-days-spent-together) |

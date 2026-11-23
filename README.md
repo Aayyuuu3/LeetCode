@@ -33,6 +33,7 @@ My LeetCode solution and DSA practice.
 | [1250-check-if-it-is-a-good-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aayyuuu3/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aayyuuu3/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1492-the-kth-factor-of-n](https://github.com/Aayyuuu3/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/Aayyuuu3/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -161,6 +162,7 @@ My LeetCode solution and DSA practice.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aayyuuu3/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aayyuuu3/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aayyuuu3/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1383-maximum-performance-of-a-team](https://github.com/Aayyuuu3/LeetCode/tree/master/1383-maximum-performance-of-a-team) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Aayyuuu3/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aayyuuu3/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -569,6 +571,7 @@ My LeetCode solution and DSA practice.
 | [0930-binary-subarrays-with-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aayyuuu3/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aayyuuu3/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aayyuuu3/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aayyuuu3/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Aayyuuu3/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -937,4 +940,12 @@ My LeetCode solution and DSA practice.
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Aayyuuu3/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aayyuuu3/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aayyuuu3/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

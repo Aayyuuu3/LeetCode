@@ -154,6 +154,7 @@ My LeetCode solution and DSA practice.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aayyuuu3/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/Aayyuuu3/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/Aayyuuu3/LeetCode/tree/master/1029-two-city-scheduling) |
+| [1048-longest-string-chain](https://github.com/Aayyuuu3/LeetCode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/Aayyuuu3/LeetCode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Aayyuuu3/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -285,6 +286,7 @@ My LeetCode solution and DSA practice.
 | [0881-boats-to-save-people](https://github.com/Aayyuuu3/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Aayyuuu3/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/Aayyuuu3/LeetCode/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aayyuuu3/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Aayyuuu3/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aayyuuu3/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -352,6 +354,7 @@ My LeetCode solution and DSA practice.
 | [0859-buddy-strings](https://github.com/Aayyuuu3/LeetCode/tree/master/0859-buddy-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aayyuuu3/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Aayyuuu3/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1048-longest-string-chain](https://github.com/Aayyuuu3/LeetCode/tree/master/1048-longest-string-chain) |
 | [1108-defanging-an-ip-address](https://github.com/Aayyuuu3/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Aayyuuu3/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Aayyuuu3/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -408,6 +411,7 @@ My LeetCode solution and DSA practice.
 | [0904-fruit-into-baskets](https://github.com/Aayyuuu3/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aayyuuu3/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/Aayyuuu3/LeetCode/tree/master/1048-longest-string-chain) |
 | [1189-maximum-number-of-balloons](https://github.com/Aayyuuu3/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Aayyuuu3/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aayyuuu3/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -532,6 +536,7 @@ My LeetCode solution and DSA practice.
 | [0877-stone-game](https://github.com/Aayyuuu3/LeetCode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Aayyuuu3/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/Aayyuuu3/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [1048-longest-string-chain](https://github.com/Aayyuuu3/LeetCode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Aayyuuu3/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Aayyuuu3/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -646,6 +651,7 @@ My LeetCode solution and DSA practice.
 | [0948-bag-of-tokens](https://github.com/Aayyuuu3/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayyuuu3/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Aayyuuu3/LeetCode/tree/master/1029-two-city-scheduling) |
+| [1048-longest-string-chain](https://github.com/Aayyuuu3/LeetCode/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/Aayyuuu3/LeetCode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Aayyuuu3/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1383-maximum-performance-of-a-team](https://github.com/Aayyuuu3/LeetCode/tree/master/1383-maximum-performance-of-a-team) |

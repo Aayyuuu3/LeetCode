@@ -203,6 +203,7 @@ My LeetCode solution and DSA practice.
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aayyuuu3/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Aayyuuu3/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2614-prime-in-diagonal](https://github.com/Aayyuuu3/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aayyuuu3/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Aayyuuu3/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aayyuuu3/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -546,6 +547,7 @@ My LeetCode solution and DSA practice.
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aayyuuu3/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Aayyuuu3/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2140-solving-questions-with-brainpower](https://github.com/Aayyuuu3/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3693-climbing-stairs-ii](https://github.com/Aayyuuu3/LeetCode/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
@@ -734,6 +736,7 @@ My LeetCode solution and DSA practice.
 | [1631-path-with-minimum-effort](https://github.com/Aayyuuu3/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Aayyuuu3/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/Aayyuuu3/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [2684-maximum-number-of-moves-in-a-grid](https://github.com/Aayyuuu3/LeetCode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aayyuuu3/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
